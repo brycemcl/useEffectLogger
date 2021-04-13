@@ -17,7 +17,7 @@ import useEffectLogger from 'useEffectLogger'
   },[user,password])
 ```
 
-This will be logged in the console when the `user` variable has in the above example.
+This will be logged in the console when the `user` variable has changed in the above example.
 
 |(index)|before|after|
 |---|---|---|
