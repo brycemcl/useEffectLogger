@@ -1,7 +1,7 @@
 {
   "name": "useeffectlogger",
-  "version": "1.0.3",
-  "description": "console.logs what changed in a dependency array",
+  "version": "1.0.4",
+  "description": "Drop-in hook to debug what is triggering a useEffect hook",
   "main": "useEffectLogger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
