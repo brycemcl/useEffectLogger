@@ -1,0 +1,29 @@
+{
+  "name": "useeffectlogger",
+  "version": "1.0.2",
+  "description": "console.logs what changed in a dependency array",
+  "main": "useEffectLogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycemcl/useEffectLogger.git"
+  },
+  "keywords": [
+    "useEffect",
+    "debugging",
+    "react",
+    "hook",
+    "hooks"
+  ],
+  "author": "Bryce McLachlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brycemcl/useEffectLogger/issues"
+  },
+  "homepage": "https://github.com/brycemcl/useEffectLogger#readme",
+  "dependencies": {
+    "react": ">=16.8"
+  }
+}
