@@ -1,6 +1,6 @@
 {
   "name": "useeffectlogger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "console.logs what changed in a dependency array",
   "main": "useEffectLogger.js",
   "scripts": {
